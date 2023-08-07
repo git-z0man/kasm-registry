@@ -1,6 +1,6 @@
 {
   "friendly_name": "Tor Browser",
-  "image_src": "https://github.com/git-z0man/kasm-registry/workspaces/tor-browser/Tor_Browser_icon.svg.png",
+  "image_src": "https://github.com/git-z0man/kasm-registry/blob/1.0/workspaces/tor-browser/Tor_Browser_icon.svg.png",
   "description": "Anonymity tool #1: Tor Brower",
   "name": "kasmweb/tor-browser:latest",
   "cores": 2,
